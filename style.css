@@ -1,0 +1,83 @@
+body {
+	background: grey;
+	border: 3px black dotted;
+	padding-bottom: 10px;
+}
+
+.header {
+	background: #b8d6d1;
+	text-align: center;
+	font-size: 18px;
+	margin: 10px;
+	margin-left: 150px;
+	margin-right: 150px;
+	padding: 20px;
+	border: 3px black dotted;
+}
+
+.nav {
+	background: #b8d6d1;
+	text-align: center;
+	font-size: 18px;
+	margin: 10px;
+	margin-left: 150px;
+	margin-right: 150px;
+	padding: 20px;
+	border: 3px red dotted;
+}
+
+.section {
+	background: #b8d6d1;
+	padding: 20px;
+	text-align: center;
+	width: 600px;
+	border: 3px black dotted;
+	float: left;
+	margin-left: 150px;
+}
+
+.article {
+	background: grey;
+	position: relative;
+	padding: 10px;
+	margin: 10px;
+	border: 3px red dotted;
+}
+
+.h1h2h3 {
+	background: #b8d6d1;
+	text-align: center;
+	margin: 5px;
+	padding: 5px;
+	border: 3px black dotted;
+}
+
+.pclass {
+	background: #b8d6d1;
+	padding: 5px;
+	margin: 5px;
+	border: 3px red dotted;
+}
+
+.aside {
+	background: #b8d6d1;
+	text-align: center;
+	border: 3px black dotted;
+	float: left;
+	padding: 93px;
+	position: static;
+	padding-left: 170px;
+	margin-left: 45px;
+	width: 20%;
+}
+
+.footer {
+	clear: both;
+	background-color: #b8d6d1;
+	padding: 20px;
+	text-align: center;
+	margin-left: 150px;
+	margin-right: 150px;
+	margin-top: 250px;
+	border: 3px red dotted;
+}
